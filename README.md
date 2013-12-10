@@ -1,4 +1,3 @@
-lowdash.github.io
-=================
+# low dash
 
-landing_page
+[_](http://lowda.sh)
